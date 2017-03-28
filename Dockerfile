@@ -1,4 +1,4 @@
-FROM ruby
+FROM ruby:2.2
 MAINTAINER Tim Perry <pimterry@gmail.com>
 
 USER root
